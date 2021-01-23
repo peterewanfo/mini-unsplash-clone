@@ -8,6 +8,6 @@ PROJECT DESCRIPTION
 ![](https://i.imgur.com/RSal5ZG.png)
 
 **IMAGE UPLOAD DIALOG
-![alt text](https://github.com/peterewanfo/mini-unsplash-clone/login_screenshot.png?raw=true)
+![alt text](https://github.com/peterewanfo/mini-unsplash-clone/blob/master/upload%20image_screenshot.PNG?raw=true)
 
 Please Note: Due to limited time, I was unable to push script to heroku
