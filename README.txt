@@ -5,7 +5,7 @@ PROJECT DESCRIPTION
 *The backend was written using Python Flask
 
 **LOGIN PAGE
-![](https://github.com/peterewanfo/mini-unsplash-clone/login_screenshot.PNG?raw=true)
+![](https://i.imgur.com/RSal5ZG.png)
 
 **IMAGE UPLOAD DIALOG
 ![alt text](https://github.com/peterewanfo/mini-unsplash-clone/login_screenshot.PNG?raw=true)
